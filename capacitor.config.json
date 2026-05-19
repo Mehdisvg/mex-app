@@ -1,0 +1,8 @@
+{
+  "appId": "com.mex.app",
+  "appName": "MeX",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
